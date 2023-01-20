@@ -1,0 +1,12 @@
+Data sent successfully to IP: 35.180.139.74 and Port: 80, Response: 
+Error: Could not resolve host '4.2.2.2:53'
+Data sent successfully to IP: 4.2.2.2 and Port: 53, Response: 
+Data sent successfully to IP: 35.180.139.74 and Port: 80, Response: 
+Error: Unable to read data from the transport connection: Connection reset by peer.
+Data sent successfully to IP: 4.2.2.2 and Port: 53, Response: 
+Data sent successfully to IP: 35.180.139.74 and Port: 80, Response: 
+Data sent successfully to IP: 35.180.139.74 and Port: 80, Response: 
+Data sent successfully to IP: 35.180.139.74 and Port: 80, Response: 
+Data sent successfully to IP: 35.180.139.74 and Port: 80, Response: 
+Data sent successfully to IP: 35.180.139.74 and Port: 80, Response: 
+Data sent successfully to IP: 4.2.2.2 and Port: 53, Response: 
